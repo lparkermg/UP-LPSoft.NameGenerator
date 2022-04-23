@@ -7,7 +7,6 @@ namespace LPSoft.NameGenerator
     using System;
     using System.Collections.Generic;
     using System.IO;
-    using System.Text.Json;
 
     /// <summary>
     /// Builder for the <see cref="NameGenerator"/>.
