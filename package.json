@@ -1,0 +1,12 @@
+{
+    "name":"com.lpsoft.name-generator",
+    "version": "1.0.0",
+    "description": "A basic name generator.",
+    "displayName": "Name Generator",
+    "unity": "2021.2",
+    "author": {
+        "name": "Luke Parker",
+        "url": "https://mrlparker.com"
+    },
+    "keywords": ["Name", "Generator"]
+}
