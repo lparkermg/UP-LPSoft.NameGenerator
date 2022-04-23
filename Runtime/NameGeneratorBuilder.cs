@@ -27,7 +27,7 @@ namespace LPSoft.NameGenerator
                 throw new ArgumentException("Key must be set.");
             }
 
-            if (items == null || items.length == 0)
+            if (items == null || items.Length == 0)
             {
                 throw new ArgumentException("Items must be provided.");
             }

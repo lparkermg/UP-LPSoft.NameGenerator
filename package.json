@@ -1,6 +1,6 @@
 {
     "name":"com.lpsoft.name-generator",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A basic name generator.",
     "displayName": "Name Generator",
     "unity": "2021.2",
